@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE Library SYSTEM" Library .dtd">
+
+<Book Bookld="sn">
+<Title>English</Title>
+<Author>Jane</Author>
+<Price>40.00</Price>
+<Publisher>Shanghai Literature</Publisher>
+<Cost>19.00</Cost>
+</Book>
+ 
+<Member>
+<Name>
+<FirstName>George</FirstName>
+<MiddleName>W</MiddleName>
+<LastName>Li</LastName>
+</Name>
+<Address>
+<HouseNumber>139</HouseNumber>
+<Street>Chengnan</Street>
+<City>Shanghai</City>
+</Address>
+</Member>
+
+</Library>
